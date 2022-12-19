@@ -21,9 +21,9 @@ In program,
 Step-1: create input for date and number.
 Step-2: Add button.
 Step-3: Put textarea to show output.
-Step-3: using qureySelector to call a input.
-Step-4: add event listerner.
-Step-5: check:
+Step-4: using qureySelector to call a input.
+Step-5: add event listerner.
+Step-6: check:
           sum % luckynumber === 0, then print your birthday is lucky.
-Step-6: Looping through the length. 
-Step-7: Display output
+Step-7: Looping through the length. 
+Step-8: Display output.
