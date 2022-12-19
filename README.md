@@ -26,4 +26,4 @@ Step-4: add event listerner.
 Step-5: check:
           sum % luckynumber === 0, then print your birthday is lucky.
 Step-6: Looping through the length. 
-SStep-7:Display output
+Step-7: Display output
